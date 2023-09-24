@@ -1,2 +1,2 @@
 # react-portfolio-paul
- React Portfolio Project
+ react-portfolio-project
